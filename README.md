@@ -124,6 +124,7 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
 * [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - Approve or reject resources like posts, comments, users, etc.
 * [Laravel Tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour
+* [Laravel SMS](https://github.com/ehsan-moradi/laravel-sms) - laravel send sms. kavenegar, ghasedak
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Listify](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
